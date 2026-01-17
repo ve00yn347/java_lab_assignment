@@ -1,4 +1,4 @@
-package com.ymsli.assingment2.Q01;
+package com.ymsli.assignment2.Q01;
 
 public class Test {
 	public static void main(String[] args) {

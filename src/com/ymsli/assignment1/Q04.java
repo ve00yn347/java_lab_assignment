@@ -1,4 +1,4 @@
-package com.ymsli.day1;
+package com.ymsli.assignment1;
 /*
   	Q4. 2D Array – Pattern Triangle (Pascal-Style)
 	Requirements Using a 2D array, print the following pattern:

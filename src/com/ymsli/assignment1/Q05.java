@@ -1,4 +1,4 @@
-package com.ymsli.day1;
+package com.ymsli.assignment1;
 
 import java.util.Scanner;
 

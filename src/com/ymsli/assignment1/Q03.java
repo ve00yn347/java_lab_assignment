@@ -1,4 +1,4 @@
-package com.ymsli.day1;
+package com.ymsli.assignment1;
 /*
 	Q3. Array Copy Method
 	Task

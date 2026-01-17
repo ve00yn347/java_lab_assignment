@@ -1,4 +1,4 @@
-package com.ymsli.day2.Q02;
+package com.ymsli.assignment2.Q02;
 
 //	Part B: BookStore Class
 //	BookStore manages an array of maximum 10 books.

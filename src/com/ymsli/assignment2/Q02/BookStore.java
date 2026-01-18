@@ -66,7 +66,7 @@ public class BookStore {
 			String title = sc.nextLine();
 			System.out.print("Enter author: ");
 			String author = sc.nextLine();
-//			sc.close();
+			sc.close();
 			
 			Book book = new Book(title, author, ISBN, count);
 			if(books.size() < 10) {
